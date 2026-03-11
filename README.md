@@ -2,18 +2,6 @@
 
 A comprehensive analysis of San Francisco International Airport (SFO) flight operations with detailed insights into flight routes, frequencies, and trends for March 2020.
 
-## 🎯 Executive Summary
-
-This project analyzes San Francisco International Airport (SFO) flight data from March 2020 to identify operational patterns and route performance metrics. The analysis reveals that:
-
-- **Domestic routes dominate traffic** with LAX leading at 7,968 flights
-- **International destinations** show strong presence on long-haul routes (BLR, SIN, DXB, MEL)
-- **March 2020 trends** indicate stable operations early in the month (~3.1K daily flights) with a significant decline starting mid-month (~2.7K flights)
-- **Nearest routes** (domestic short-haul) like MNH show surprisingly high frequencies despite short distances
-- **Overall insight**: SFO maintains a balanced portfolio of both high-frequency domestic and selective international long-haul routes
-
-The analysis was conducted using Kaggle data, cleaned with Power Query Editor, and visualized through an interactive Tableau dashboard featuring four key analytical sections.
-
 ## 📋 Project Overview
 
 This project provides an in-depth analysis of flight operations at San Francisco International Airport (SFO), focusing on flight routes, flight counts, and distance metrics. The analysis identifies key patterns in both long-haul international and short-distance domestic routes, offering insights into airport operations and traffic distribution.
