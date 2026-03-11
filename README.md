@@ -89,12 +89,6 @@ Airport-Analysis/
 3. **Capacity Planning**: Near-distance routes (MNH) have surprisingly high frequency despite short distances
 4. **Geographic Distribution**: Strong presence in both domestic high-traffic corridors and strategic international routes
 
-## 📱 How to Use
-
-1. **View Dashboard**: Open `Result/AIRPORT ANALYSIS.twb` in Tableau Desktop or Tableau Public
-2. **Explore Data**: Access cleaned datasets in `Clean Data/` folder
-3. **Review Analysis**: Check `Description/Description.txt` for detailed findings
-
 ## 🔧 Tools & Technologies
 
 | Task | Tool |
